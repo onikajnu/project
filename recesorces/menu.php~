@@ -1,0 +1,107 @@
+<nav class="navbar navbar-inverse deg">
+			<div class="container">
+				<div class="navbar-header">
+					<button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNav" aria-expanded="false">
+						<span class="sr-only"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+
+
+
+					
+            </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="myNav">
+      <ul class="nav navbar-nav">
+     
+
+
+        <li class="active"><a href="Home.html">Home <span class="sr-only">(current)</span></a></li>
+
+
+        <li><a href="../syellebus/Syellebus2.html">Syellebus</a></li>
+
+
+        <li class="dropdown">
+          <a href="../Lectures/Lectures.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Lectures<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="../Lectures/f1.htm">First year first semester</a></li>
+            <li><a href="../Lectures/f2.htm">First year second semester</a></li>
+            <li><a href="../Lectures/s1.htm">Second year first semester</a></li>
+            <li><a href="../Lectures/s2.htm">Second year second semester</a></li>
+            <li><a href="../Lectures/t1.htm">3rd year first semester</a></li>
+            <li><a href="../Lectures/t2.htm">3rd year first semester</a></li>
+            <li><a href="../Lectures/f1.htm">4th year first semester</a></li>
+            <li><a href="../Lectures/f2.htm">4th year second semester</a></li>
+          </ul>
+        </li>
+
+
+
+
+         <li class="dropdown">
+          <a href="../books/books.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Books<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+           <li><a href="../books/f1.htm">First year first semester</a></li>
+            <li><a href="../books/f2.htm">First year second semester</a></li>
+            <li><a href="../books/s1.htm">Second year first semester</a></li>
+            <li><a href="../books/s2.htm">Second year second semester</a></li>
+            <li><a href="../books/t1.htm">3rd year first semester</a></li>
+            <li><a href="../books/t2.htm">3rd year first semester</a></li>
+            <li><a href="../books/fo1.htm">4th year first semester</a></li>
+            <li><a href="../books/fo2.htm">4th year second semester</a></li>
+
+          </ul>
+        </li>
+
+
+
+         <li class="dropdown">
+          <a href="../labwork/labwork1.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Lab Work<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="../labwork/f1.htm">First year first semester</a></li>
+            <li><a href="../labwork/f2.htm">First year second semester</a></li>
+            <li><a href="../labwork/s1.htm">Second year first semester</a></li>
+            <li><a href="../labwork/s2.htm">Second year second semester</a></li>
+            <li><a href="../labwork/t1.htm">3rd year first semester</a></li>
+            <li><a href="../labwork/t2.htm">3rd year first semester</a></li>
+            <li><a href="../labwork/f1.htm">4th year first semester</a></li>
+            <li><a href="../labwork/f2.htm">4th year second semester</a></li>
+
+          </ul>
+        </li>
+
+<li class="dropdown">
+ <a href="../Question bank/que.html"
+  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Question Bank<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="../Question bank/1b.html">1st batch</a></li>
+            <li><a href="../Question bank/2b.html">2nd batch</a></li>
+            <li><a href="../Question bank/3b.html">3rd batch</a></li>
+            <li><a href="../Question bank/4b.html">4th batch</a></li>
+            <li><a href="../Question bank/5b.html">5th batch</a></li>
+            <li><a href="../Question bank/6b.html">6th batch</a></li>
+            <li><a href="../Question bank/7b.html">7th batch</a></li>
+            
+          </ul>
+        </li>
+<li><a href="Others/others.html">Others</a></li>
+
+      </ul>
+
+      <form class="navbar-form navbar-right" role="search">
+        <div class="form-group">
+          <input type="text" class="form-control" placeholder="Search">
+        </div>
+        <button type="submit" class="btn btn-info"><span class="glyphicon glyphicon-search"></span></button>
+      </form>
+
+      </div>
+
+
+      </div>
+    </nav>
+
